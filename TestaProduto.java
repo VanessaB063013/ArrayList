@@ -39,8 +39,7 @@ public class TestaProduto {
 		System.out.println(produto1);
 		
 		
-		//Preciso estudar melhor os conceitos e organizar o código, este foi enviado apenas para a apresentação da atividade
-		//Montar um sistema mais organizado que atenda as necessidades do enunciado.
+		
 		
 		
 		
